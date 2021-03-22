@@ -15,16 +15,14 @@
 ### 📚 Education
 - Woowahan Tech Course 3rd gen (Feb 2021 –)<br/>
 <sub>&nbsp;&nbsp;Back-end development programming; especially focusing on object oriented programming and test driven development.<sub/>
-- University of California, San Diego (UCSD) <br/>
-<sub>&nbsp;&nbsp;Bachelor of Mathematics-Computer Science (Mar 2016 - Jun 2019)<sub/>
+- University of California, San Diego (Mar 2016 - Jun 2019) <br/>
+<sub>&nbsp;&nbsp;Bachelor of Mathematics-Computer Science <sub/>
 - Dev Bootcamp (May 2017 - Oct 2017)<br/>
 <sub>&nbsp;&nbsp;700+ immersive hours spent in an intensive full-stack web development program, utilizing TDD with RSpec, Jasmine and Capybara. <sub/>
-
-
-- Salt Lake Community College (Jun 2014 - Jun 2015)<br/>
-<sub>&nbsp;&nbsp; President's List(2014 Summer, 2014 Fall, 2015 Spring)<sub/>
-- Diablo Valley College (UCSD) (Sep 2015 - Jun 2016)<br/>
+- Diablo Valley College   Concord, California(Sep 2015 - Jun 2016)<br/>
 <sub>&nbsp;&nbsp; President's List(2015 Fall, 2016 Spring)<sub/>
+- Salt Lake Community College   Salt Lake City, Utah(Jun 2014 - Jun 2015)<br/>
+<sub>&nbsp;&nbsp; President's List(2014 Summer, 2014 Fall, 2015 Spring)<sub/>
 
 ### ⌨️ Experience
 - Software Engineering Intern - Fasoo.com, Inc (Jun 2018 - Aug 2018)</br>
