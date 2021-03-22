@@ -16,6 +16,7 @@
 - University of California, San Diego (UCSD) <br>
 <sub>&nbsp;&nbsp;Bachelor of Mathematics-Computer Science (Mar 2019 - Jun 2019)<sub/>
 - Dev Bootcamp (May 2017 - Oct 2017)
+<sub>700+ immersive hours spent in an intensive full-stack web development program, utilizing TDD with RSpec, Jasmine and Capybara <sub/>
 
 
 - Salt Lake Community College (Jun 2014 - Jun 2015)<br/>
@@ -25,11 +26,7 @@
 
 ### ⌨️ Experience
 - Software Engineering Intern - Fasoo.com, Inc (Jun 2018 - Aug 2018)</br>
-&nbsp;&nbsp;Developed pilot project "Open Source Vulnerability Scanner" which checks against vulnerability of open source libraries
-
-
-
-
+<sub>&nbsp;&nbsp;Developed pilot project "Open Source Vulnerability Scanner" which checks against vulnerability of open source libraries</sub>
 
 <!--
 **YounghoonKwon/younghoonkwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
