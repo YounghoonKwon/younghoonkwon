@@ -29,6 +29,10 @@
 - Software Engineering Intern - Fasoo.com, Inc (Jun 2018 - Aug 2018)</br>
 <sub>&nbsp;&nbsp;Developed pilot project "Open Source Vulnerability Scanner" which checks against vulnerability of open source libraries</sub>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younghoonkwon)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **YounghoonKwon/younghoonkwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
