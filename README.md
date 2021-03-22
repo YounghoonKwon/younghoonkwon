@@ -14,7 +14,7 @@
 
 ### 📚 Education
 - Woowahan Tech Course 3rd gen <sub>&nbsp;&nbsp;&nbsp; Seoul, Korea&nbsp;&nbsp;&nbsp;(Feb 2021 –)</sub><br/>
-<sub>&nbsp;&nbsp;Back-end development programming; especially focusing on object oriented programming and test driven development.</sub><br/><br/> 
+<sub>&nbsp;&nbsp;Back-end programming; especially focusing on object oriented programming and test driven development.</sub><br/><br/> 
 - University of California, San Diego <sub>&nbsp;&nbsp;&nbsp; San Diego, California&nbsp;&nbsp;&nbsp;(Mar 2016 - Jun 2019)</sub><br/>
 <sub>&nbsp;&nbsp;Bachelor of Mathematics-Computer Science </sub><br/><br/>
 - Dev Bootcamp <sub>&nbsp;&nbsp;&nbsp; San Diego, California&nbsp;&nbsp;&nbsp;(May 2017 - Oct 2017)</sub><br/>
