@@ -6,6 +6,16 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/91hoon/)](https://www.instagram.com/91hoon/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:younghoonkwon91@gmail.com)](mailto:younghoonkwon91@gmail.com)
 
+### 📚 Education
+- Bachelor of Mathematics-Computer Science (Mar 2016 - Jun 2019)
+- Dev Bootcamp (May 2017 - Oct 2017)
+- Woowahan Tech Course 3rd gen (Feb 2021 –)
+
+### ⌨️ Experience
+- Software Engineering Intern - Fasoo.com, Inc (Jun 2018 - Aug 2018)
+  - Developed pilot project "Open Source Vulnerability Scanner" which checks against vulnerability of open source libraries
+
+
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounghoonKwon&hide=stars,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
