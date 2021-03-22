@@ -12,10 +12,10 @@
 - Dev Bootcamp (May 2017 - Oct 2017)
 - Woowahan Tech Course 3rd gen (Feb 2021 –)
 
-- Salt Lake Community College (Jun 2014 - Jun 2015)
+- Salt Lake Community College (Jun 2014 - Jun 2015)<br/>
 &nbsp;&nbsp; President's List(2014 Summer, 2014 Fall, 2015 Spring)
-- Diablo Valley College (UCSD) (Sep 2015 - Jun 2016)
-- &nbsp;&nbsp; President's List(2015 Fall, 2016 Spring)
+- Diablo Valley College (UCSD) (Sep 2015 - Jun 2016)<br/>
+&nbsp;&nbsp; President's List(2015 Fall, 2016 Spring)
 
 ### ⌨️ Experience
 - Software Engineering Intern - Fasoo.com, Inc (Jun 2018 - Aug 2018)</br>
