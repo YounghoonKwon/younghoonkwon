@@ -1,5 +1,5 @@
-### Hi there 
-👋 My name is Younghoon Kwon. I am a recent graduate from the University of California, San Diego with a bachelor of science in Mathematics and Computer Science. I am a faithful hard worker, preferring to live to a certain routine everyday so that I can have my life with full of productivity. If I were to select one quote that I live by, it would be, "Today is the first day of my life", because I believe that this mindset will shape my future. 
+### Hi there 👋
+  My name is Younghoon Kwon. I am a recent graduate from the University of California, San Diego with a bachelor of science in Mathematics and Computer Science. I am a faithful hard worker, preferring to live to a certain routine everyday so that I can have my life with full of productivity. If I were to select one quote that I live by, it would be, "Today is the first day of my life", because I believe that this mindset will shape my future. 
 
 
 
