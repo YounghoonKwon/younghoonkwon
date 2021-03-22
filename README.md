@@ -13,9 +13,9 @@
 
 ### 📚 Education
 - Woowahan Tech Course 3rd gen (Feb 2021 –)
-- University of California, San Diego (UCSD) <br>
+- University of California, San Diego (UCSD) <br/>
 <sub>&nbsp;&nbsp;Bachelor of Mathematics-Computer Science (Mar 2019 - Jun 2019)<sub/>
-- Dev Bootcamp (May 2017 - Oct 2017)
+- Dev Bootcamp (May 2017 - Oct 2017)<br/>
 <sub>700+ immersive hours spent in an intensive full-stack web development program, utilizing TDD with RSpec, Jasmine and Capybara <sub/>
 
 
