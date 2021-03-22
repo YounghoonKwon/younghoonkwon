@@ -13,8 +13,8 @@
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounghoonKwon&hide=stars,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📚 Education
-- Woowahan Tech Course 3rd gen (Feb 2021 –)
-<sub>&nbsp;&nbsp;Back-end development especially focusing on object oriented and test driven development programming.<sub/>
+- Woowahan Tech Course 3rd gen (Feb 2021 –)<br/>
+<sub>&nbsp;&nbsp;Back-end development programming; especially focusing on object oriented programming and test driven development.<sub/>
 - University of California, San Diego (UCSD) <br/>
 <sub>&nbsp;&nbsp;Bachelor of Mathematics-Computer Science (Mar 2016 - Jun 2019)<sub/>
 - Dev Bootcamp (May 2017 - Oct 2017)<br/>
