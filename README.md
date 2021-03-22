@@ -14,10 +14,11 @@
 
 ### 📚 Education
 - Woowahan Tech Course 3rd gen (Feb 2021 –)
+<sub>&nbsp;&nbsp;Back-end development especially focusing on object oriented and test driven development programming.<sub/>
 - University of California, San Diego (UCSD) <br/>
 <sub>&nbsp;&nbsp;Bachelor of Mathematics-Computer Science (Mar 2016 - Jun 2019)<sub/>
 - Dev Bootcamp (May 2017 - Oct 2017)<br/>
-<sub>&nbsp;&nbsp;700+ immersive hours spent in an intensive full-stack web development program, utilizing TDD with RSpec, Jasmine and Capybara <sub/>
+<sub>&nbsp;&nbsp;700+ immersive hours spent in an intensive full-stack web development program, utilizing TDD with RSpec, Jasmine and Capybara. <sub/>
 
 
 - Salt Lake Community College (Jun 2014 - Jun 2015)<br/>
@@ -27,7 +28,7 @@
 
 ### ⌨️ Experience
 - Software Engineering Intern - Fasoo.com, Inc (Jun 2018 - Aug 2018)</br>
-<sub>&nbsp;&nbsp;Developed pilot project "Open Source Vulnerability Scanner" which checks against vulnerability of open source libraries</sub>
+<sub>&nbsp;&nbsp;Developed pilot project "Open Source Vulnerability Scanner" which checks against vulnerability of open source. libraries</sub>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younghoonkwon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
