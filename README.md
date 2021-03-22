@@ -12,15 +12,16 @@
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounghoonKwon&hide=stars,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📚 Education
-- University of California, San Diego (UCSD) <br>
-&nbsp;&nbsp;Bachelor of Mathematics-Computer Science (Mar 2019 - Jun 2019)
-- Dev Bootcamp (May 2017 - Oct 2017)
 - Woowahan Tech Course 3rd gen (Feb 2021 –)
+- University of California, San Diego (UCSD) <br>
+<sub>&nbsp;&nbsp;Bachelor of Mathematics-Computer Science (Mar 2019 - Jun 2019)<sub/>
+- Dev Bootcamp (May 2017 - Oct 2017)
+
 
 - Salt Lake Community College (Jun 2014 - Jun 2015)<br/>
-&nbsp;&nbsp; President's List(2014 Summer, 2014 Fall, 2015 Spring)
+<sub>&nbsp;&nbsp; President's List(2014 Summer, 2014 Fall, 2015 Spring)<sub/>
 - Diablo Valley College (UCSD) (Sep 2015 - Jun 2016)<br/>
-&nbsp;&nbsp; President's List(2015 Fall, 2016 Spring)
+<sub>&nbsp;&nbsp; President's List(2015 Fall, 2016 Spring)<sub/>
 
 ### ⌨️ Experience
 - Software Engineering Intern - Fasoo.com, Inc (Jun 2018 - Aug 2018)</br>
