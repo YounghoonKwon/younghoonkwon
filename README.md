@@ -13,7 +13,7 @@
 
 ### ⌨️ Experience
 - Software Engineering Intern - Fasoo.com, Inc (Jun 2018 - Aug 2018)
-  - Developed pilot project "Open Source Vulnerability Scanner" which checks against vulnerability of open source libraries
+&nbsp;&nbsp;Developed pilot project "Open Source Vulnerability Scanner" which checks against vulnerability of open source libraries
 
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounghoonKwon&hide=stars,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
