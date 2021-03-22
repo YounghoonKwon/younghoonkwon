@@ -21,7 +21,7 @@
 <sub>&nbsp;&nbsp;700+ immersive hours spent in an intensive full-stack web development program, utilizing TDD with RSpec, Jasmine and Capybara. </sub><br/><br/>
 - Diablo Valley College &nbsp;&nbsp;&nbsp;  <sub>Pleasant hill, California&nbsp;&nbsp;&nbsp;(Sep 2015 - Jun 2016)</sub><br/>
 <sub>&nbsp;&nbsp; President's List(2015 Fall, 2016 Spring)</sub><br/><br/>
-- Salt Lake Community College &nbsp;&nbsp;&nbsp;  <sub>Salt Lake City, Utah&nbsp;&nbsp;&nbsp;(Jun 2014 - Jun 2015)<sub/><br/>
+- Salt Lake Community College &nbsp;&nbsp;&nbsp;  <sub>Salt Lake City, Utah&nbsp;&nbsp;&nbsp;(Jun 2014 - Jun 2015)</sub><br/>
 <sub>&nbsp;&nbsp; President's List(2014 Summer, 2014 Fall, 2015 Spring)</sub><br/><br/>
 
 ### ⌨️ Experience
