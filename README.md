@@ -8,9 +8,14 @@
 
 ### 📚 Education
 - University of California, San Diego (UCSD) <br>
-&nbsp;&nbsp;Bachelor of Mathematics-Computer Science (Graduated 2019)
+&nbsp;&nbsp;Bachelor of Mathematics-Computer Science (Mar 2019 - Jun 2019)
 - Dev Bootcamp (May 2017 - Oct 2017)
 - Woowahan Tech Course 3rd gen (Feb 2021 –)
+
+- Salt Lake Community College (Jun 2014 - Jun 2015)
+&nbsp;&nbsp; President's List(2014 Summer, 2014 Fall, 2015 Spring)
+- Diablo Valley College (UCSD) (Sep 2015 - Jun 2016)
+- &nbsp;&nbsp; President's List(2015 Fall, 2016 Spring)
 
 ### ⌨️ Experience
 - Software Engineering Intern - Fasoo.com, Inc (Jun 2018 - Aug 2018)</br>
