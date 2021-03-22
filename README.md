@@ -19,9 +19,9 @@
 <sub>&nbsp;&nbsp;Bachelor of Mathematics-Computer Science <sub/>
 - Dev Bootcamp (May 2017 - Oct 2017)<br/>
 <sub>&nbsp;&nbsp;700+ immersive hours spent in an intensive full-stack web development program, utilizing TDD with RSpec, Jasmine and Capybara. <sub/>
-- Diablo Valley College   Pleasant hill, California(Sep 2015 - Jun 2016)<br/>
+- Diablo Valley College   <sub>Pleasant hill, California&nbsp;&nbsp;&nbsp;(Sep 2015 - Jun 2016)<sub/><br/>
 <sub>&nbsp;&nbsp; President's List(2015 Fall, 2016 Spring)<sub/>
-- Salt Lake Community College   Salt Lake City, Utah(Jun 2014 - Jun 2015)<br/>
+- Salt Lake Community College   <sub>Salt Lake City, Utah&nbsp;&nbsp;&nbsp;(Jun 2014 - Jun 2015)<sub/><br/>
 <sub>&nbsp;&nbsp; President's List(2014 Summer, 2014 Fall, 2015 Spring)<sub/>
 
 ### ⌨️ Experience
