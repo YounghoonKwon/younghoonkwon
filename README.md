@@ -19,13 +19,13 @@
 <sub>&nbsp;&nbsp;Bachelor of Mathematics-Computer Science <sub/>
 - Dev Bootcamp (May 2017 - Oct 2017)<br/>
 <sub>&nbsp;&nbsp;700+ immersive hours spent in an intensive full-stack web development program, utilizing TDD with RSpec, Jasmine and Capybara. <sub/>
-- Diablo Valley College   Concord, California(Sep 2015 - Jun 2016)<br/>
+- Diablo Valley College   Pleasant hill, California(Sep 2015 - Jun 2016)<br/>
 <sub>&nbsp;&nbsp; President's List(2015 Fall, 2016 Spring)<sub/>
 - Salt Lake Community College   Salt Lake City, Utah(Jun 2014 - Jun 2015)<br/>
 <sub>&nbsp;&nbsp; President's List(2014 Summer, 2014 Fall, 2015 Spring)<sub/>
 
 ### ⌨️ Experience
-- Software Engineering Intern - Fasoo.com, Inc (Jun 2018 - Aug 2018)</br>
+- Software Engineering Intern - Fasoo.com, Inc    Seoul, Korea   (Jun 2018 - Aug 2018)</br>
 <sub>&nbsp;&nbsp;Developed pilot project "Open Source Vulnerability Scanner" which checks against vulnerability of open source. libraries</sub>
 
 
