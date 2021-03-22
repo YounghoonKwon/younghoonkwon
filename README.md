@@ -16,7 +16,7 @@
 - University of California, San Diego (UCSD) <br/>
 <sub>&nbsp;&nbsp;Bachelor of Mathematics-Computer Science (Mar 2016 - Jun 2019)<sub/>
 - Dev Bootcamp (May 2017 - Oct 2017)<br/>
-<sub>700+ immersive hours spent in an intensive full-stack web development program, utilizing TDD with RSpec, Jasmine and Capybara <sub/>
+<sub>&nbsp;&nbsp;700+ immersive hours spent in an intensive full-stack web development program, utilizing TDD with RSpec, Jasmine and Capybara <sub/>
 
 
 - Salt Lake Community College (Jun 2014 - Jun 2015)<br/>
