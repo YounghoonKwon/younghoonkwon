@@ -2,7 +2,7 @@
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounghoonKwon&hide=stars,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YounghoonKwon)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=younghoonkwon)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
