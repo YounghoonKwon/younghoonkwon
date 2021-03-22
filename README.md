@@ -13,11 +13,11 @@
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounghoonKwon&hide=stars,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📚 Education
-- Woowahan Tech Course 3rd gen <sub>(Feb 2021 –)&nbsp;&nbsp;&nbsp; Seoul, Korea</sub><br/>
+- Woowahan Tech Course 3rd gen <sub>&nbsp;&nbsp;&nbsp; Seoul, Korea&nbsp;&nbsp;&nbsp;(Feb 2021 –)</sub><br/>
 <sub>&nbsp;&nbsp;Back-end development programming; especially focusing on object oriented programming and test driven development.</sub><br/><br/> 
 - University of California, San Diego <sub>&nbsp;&nbsp;&nbsp; San Diego, California(Mar 2016 - Jun 2019) </sub><br/>
 <sub>&nbsp;&nbsp;Bachelor of Mathematics-Computer Science </sub><br/><br/>
-- Dev Bootcamp <sub>(May 2017 - Oct 2017)&nbsp;&nbsp;&nbsp; San Diego, California</sub><br/>
+- Dev Bootcamp <sub>&nbsp;&nbsp;&nbsp; San Diego, California&nbsp;&nbsp;&nbsp;(May 2017 - Oct 2017)</sub><br/>
 <sub>&nbsp;&nbsp;700+ immersive hours spent in an intensive full-stack web development program, utilizing TDD with RSpec, Jasmine and Capybara. </sub><br/><br/>
 - Diablo Valley College &nbsp;&nbsp;&nbsp;  <sub>Pleasant hill, California&nbsp;&nbsp;&nbsp;(Sep 2015 - Jun 2016)</sub><br/>
 <sub>&nbsp;&nbsp; President's List(2015 Fall, 2016 Spring)</sub><br/><br/>
