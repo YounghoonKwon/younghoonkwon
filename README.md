@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:younghoonkwon91@gmail.com)](mailto:younghoonkwon91@gmail.com)
 
 ### 📚 Education
-- University of California, San Diego (UCSD)
+- University of California, San Diego (UCSD) <br>
 &nbsp;&nbsp;Bachelor of Mathematics-Computer Science (Mar 2016 - Jun 2019)
 - Dev Bootcamp (May 2017 - Oct 2017)
 - Woowahan Tech Course 3rd gen (Feb 2021 –)
