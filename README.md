@@ -14,15 +14,15 @@
 
 ### 📚 Education
 - Woowahan Tech Course 3rd gen <sub>(Feb 2021 –)<sub/><br/>
-<sub>&nbsp;&nbsp;Back-end development programming; especially focusing on object oriented programming and test driven development.<sub/>
+<sub>&nbsp;&nbsp;Back-end development programming; especially focusing on object oriented programming and test driven development.<sub/><br/>
 - University of California, San Diego <sub>(Mar 2016 - Jun 2019) <sub/><br/>
-<sub>&nbsp;&nbsp;Bachelor of Mathematics-Computer Science <sub/>
+<sub>&nbsp;&nbsp;Bachelor of Mathematics-Computer Science <sub/><br/>
 - Dev Bootcamp <sub>(May 2017 - Oct 2017)<sub/><br/>
-<sub>&nbsp;&nbsp;700+ immersive hours spent in an intensive full-stack web development program, utilizing TDD with RSpec, Jasmine and Capybara. <sub/>
+<sub>&nbsp;&nbsp;700+ immersive hours spent in an intensive full-stack web development program, utilizing TDD with RSpec, Jasmine and Capybara. <sub/><br/>
 - Diablo Valley College &nbsp;&nbsp;&nbsp;  <sub>Pleasant hill, California&nbsp;&nbsp;&nbsp;(Sep 2015 - Jun 2016)<sub/><br/>
-<sub>&nbsp;&nbsp; President's List(2015 Fall, 2016 Spring)<sub/>
+<sub>&nbsp;&nbsp; President's List(2015 Fall, 2016 Spring)<sub/><br/>
 - Salt Lake Community College &nbsp;&nbsp;&nbsp;  <sub>Salt Lake City, Utah&nbsp;&nbsp;&nbsp;(Jun 2014 - Jun 2015)<sub/><br/>
-<sub>&nbsp;&nbsp; President's List(2014 Summer, 2014 Fall, 2015 Spring)<sub/>
+<sub>&nbsp;&nbsp; President's List(2014 Summer, 2014 Fall, 2015 Spring)<sub/><br/>
 
 ### ⌨️ Experience
 - Software Engineering Intern - Fasoo.com, Inc   &nbsp;&nbsp;&nbsp; Seoul, Korea&nbsp;&nbsp;&nbsp;   <sub>(Jun 2018 - Aug 2018)<sub/></br>
