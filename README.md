@@ -12,7 +12,7 @@
 - Woowahan Tech Course 3rd gen (Feb 2021 –)
 
 ### ⌨️ Experience
-- Software Engineering Intern - Fasoo.com, Inc (Jun 2018 - Aug 2018)
+- Software Engineering Intern - Fasoo.com, Inc (Jun 2018 - Aug 2018)</br>
 &nbsp;&nbsp;Developed pilot project "Open Source Vulnerability Scanner" which checks against vulnerability of open source libraries
 
 
