@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonkwon&hide=contribs,starts,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonkwon&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
