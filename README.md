@@ -8,7 +8,7 @@
 
 ### 📚 Education
 - University of California, San Diego (UCSD) <br>
-&nbsp;&nbsp;Bachelor of Mathematics-Computer Science (Mar 2016 - Jun 2019)
+&nbsp;&nbsp;Bachelor of Mathematics-Computer Science (Class of 2019)
 - Dev Bootcamp (May 2017 - Oct 2017)
 - Woowahan Tech Course 3rd gen (Feb 2021 –)
 
