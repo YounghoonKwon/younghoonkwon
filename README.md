@@ -29,7 +29,6 @@
 <sub>&nbsp;&nbsp;Developed pilot project "Open Source Vulnerability Scanner" which checks against vulnerability of open source libraries.</sub>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younghoonkwon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
