@@ -1,9 +1,9 @@
 ### Hi there 👋
 &nbsp;&nbsp;&nbsp;My name is Younghoon Kwon. I am a recent graduate from the University of California, San Diego with a bachelor of science in Mathematics and Computer Science. I am a faithful hard worker, preferring to live to a certain routine everyday so that I can have my life with full of productivity. If I were to select one quote that I live by, it would be, "Today is the first day of my life", because I believe that this mindset will shape my future. 
 
+[To know more about me](https://resonant-quilt-b02.notion.site/27ad1d3dc5ba45329b5fd623d75f1641, "notion resume").
 
 
-## Ryan &nbsp;@younghoonkwon
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyounghoonkwon)](https://hits.seeyoufarm.com)
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://younghoonkwon.github.io/)](http://younghoonkwon.github.io/) -->
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/91hoon/)](https://www.instagram.com/91hoon/)
